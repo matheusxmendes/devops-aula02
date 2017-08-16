@@ -1,5 +1,6 @@
 # devops-aula02
 
 Robert Downey Jr.
-Scarlett Johansson
+Arnold schwarzenegger
 Shia LaBeouf
+Silvester Stalone
